@@ -25,7 +25,7 @@ const music_list = [
         img : 'images/',
         name : '',
         artist : '',
-        music : 'music/'
+        music : 'music/Churi_1.mp3'
     },
   
 ];
