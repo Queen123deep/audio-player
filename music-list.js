@@ -3,7 +3,7 @@ let allMusic = [
   {
     name: "Pent Straight",
     artist: "Gurnam Bhullar",
-    img: "./images/images(8).jpeg",
+    img: "./images/images(8).jpg",
     src: "./music/PentStraight(RiskyjaTT.CoM).mp3"
   },
 {
