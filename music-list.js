@@ -10,7 +10,7 @@ let allMusic = [
     name: "Family",
     artist: "Deep Dhillon",
     img: "./images/images(8).jpeg",
-    src: "./music/Churi_1.mp3"
+    src: "Churi_1.mp3"
   },
 
   
